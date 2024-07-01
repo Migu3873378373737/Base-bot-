@@ -1,2 +1,2 @@
 # Base-bot-
-Base discord bot
+faça os seus bot com esses arquivos
